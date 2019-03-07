@@ -1,5 +1,5 @@
 # Simple-Joi-Validator
-A Sample Node JS Server With Joi Validation for Various Inputs Types
+A Sample Node JS Server With Joi Validation for Various Input Types
 
 # Getting Started
 
